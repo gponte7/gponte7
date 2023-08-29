@@ -1,6 +1,6 @@
 <img align="left" height="200" src="https://i.pinimg.com/564x/c5/ea/12/c5ea12bca11a1aee7119c5115fe7a3af.jpg"/>
 
-    I'm Guilherme, nice to e-meet you :computer:
+    I'm Guilherme, nice to e-meet you!
     
     - Front-End Developer
     - React
