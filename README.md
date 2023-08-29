@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://i.pinimg.com/564x/c5/ea/12/c5ea12bca11a1aee7119c5115fe7a3af.jpg"/>
+<img align="left" height="200" src="https://i.pinimg.com/564x/5d/0e/d4/5d0ed4c42588b6c9d77fc626fd7e92df.jpg"/>
 
     I'm Guilherme, nice to e-meet you!
     
